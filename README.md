@@ -1,2 +1,2 @@
 # OIBSIP
-Java Number Guessing Game project developed using loops, conditions, random numbers, and user input.
+This is a Java-based Number Guessing Game project created as part of the Oasis Infobyte Internship
