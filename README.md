@@ -13,8 +13,8 @@ Projects Included:
 - Concepts Used: Switch Case, Loops, Conditions, User Input, Variables.
 
 3. Online Examination System
-A Java-based online examination application that allows users to log in, attempt multiple-choice questions within a time limit, and view their results upon submission.
-Concepts Used: OOP, Loops, Conditions, Arrays, Timer, User Input, Switch Case
+-A Java-based online examination application that allows users to log in, attempt multiple-choice questions within a time limit, and view their results upon submission.
+-Concepts Used: OOP, Loops, Conditions, Arrays, Timer, User Input, Switch Case
 
 These projects were developed using Java and executed in Visual Studio Code.
 
